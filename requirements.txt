@@ -1,0 +1,8 @@
+streamlit
+pandas
+google-generativeai
+spacy
+ja-ginza
+wordcloud
+networkx
+matplotlib

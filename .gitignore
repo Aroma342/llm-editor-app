@@ -1,0 +1,17 @@
+# Pythonキャッシュ
+__pycache__/
+*.py[cod]
+
+# 仮想環境
+venv/
+.venv/
+
+# アプリのデータ（執筆データやキャラクター情報）
+projects/
+
+# 環境変数（将来的にAPIキーをファイル保存する場合用）
+.env
+
+# OS一時ファイル
+.DS_Store
+Thumbs.db
